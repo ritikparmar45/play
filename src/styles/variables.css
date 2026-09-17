@@ -1,0 +1,32 @@
+:root {
+  /* Airbnb Color Palette */
+  --color-brand: #ff385c;
+  --color-brand-gradient: linear-gradient(90deg, #ff385c 0%, #e00b41 100%);
+  --color-text-main: #222222;
+  --color-text-muted: #717171;
+  --color-border: #dddddd;
+  --color-border-subtle: #ebebeb;
+  --color-bg-surface: #ffffff;
+  --color-bg-subtle: #f7f7f7;
+  --color-overlay-dark: rgba(0, 0, 0, 0.6);
+  --color-lightbox-bg: rgba(0, 0, 0, 0.92);
+
+  /* Typography */
+  --font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  
+  /* Dimensions & Spacing */
+  --container-max-width: 100%;
+  --header-height: 80px;
+
+  /* Border Radiuses */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 24px;
+  --radius-pill: 9999px;
+
+  /* Shadows */
+  --shadow-search: 0 1px 2px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.05);
+  --shadow-search-hover: 0 2px 4px rgba(0, 0, 0, 0.18);
+  --shadow-card: 0 6px 16px rgba(0, 0, 0, 0.12);
+  --shadow-button: 0 1px 2px rgba(0, 0, 0, 0.18);
+}
